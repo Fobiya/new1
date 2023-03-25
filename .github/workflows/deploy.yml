@@ -12,5 +12,5 @@ jobs:
           path: ./home/yc422543/uh-vpn.org/demo/
           remote_host: yc422543.ftp.tools
           remote_user: yc422543
-          remote_key: Fobiya
+          remote_key: Roman
           remote_path: /home/yc422543/uh-vpn.org/demo/
