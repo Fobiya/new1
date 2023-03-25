@@ -9,7 +9,7 @@ jobs:
         uses: burnett01/rsync-deployments@5.2
         with:
           switches: -avzr --delete
-          path: .
+          path: ./home/yc422543/uh-vpn.org/demo/
           remote_host: yc422543.ftp.tools
           remote_user: yc422543
           remote_key: Fobiya
