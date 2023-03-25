@@ -12,5 +12,5 @@ jobs:
           path: .
           remote_host: yc422543.ftp.tools
           remote_user: yc422543
-          remote_key: ssh -i ~/rsa_new
+          remote_key: Fobiya
           remote_path: /home/yc422543/uh-vpn.org/demo/
